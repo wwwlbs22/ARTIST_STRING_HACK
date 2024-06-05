@@ -5,8 +5,8 @@
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXSTRINGHACK&theme=flag-india)
-[![GIF](https://github.com/DAXXTEAM/DAXXSTRINGHACK/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+[![GIF](https://github.com/wwwlbs22/ARTIST_STRING_HACK/blob/main/DAXXTEAM.gif)](https://github.com/wwwlbs22)
+   [![✘ 𝙏𝙃𝙀 𝘼𝙍𝙏𝙄𝙎𝙏 ✘](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "wwwlbs22")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
                   
 
 <p align="center">
